@@ -29,7 +29,7 @@
 - [x] F009 — Find Maximum Element — ✅ DONE
 - [x] F010 — Find Minimum Element — ✅ DONE
 - [x] F011 — Find Sum of Array Elements — ✅ DONE
-* [ ] F012 — Find Average
+* [x] F012 — Find Average — ✅ DONE
 * [ ] F013 — Count Occurrences
 * [ ] F014 — Linear Search
 * [ ] F015 — Reverse Array
