@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 3 / 181**
+**Completed: 4 / 181**
 
 ---
 
@@ -27,7 +27,7 @@
 * [x] F008 — Traverse an Array — ✅ DONE
 * [x] F009 — Find Maximum Element — ✅ DONE
 - [x] F009 — Find Maximum Element — ✅ DONE
-* [ ] F011 — Find Sum
+- [x] F010 — Find Minimum Element — ✅ DONE
 * [ ] F012 — Find Average
 * [ ] F013 — Count Occurrences
 * [ ] F014 — Linear Search
