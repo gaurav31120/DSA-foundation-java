@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 18 / 181**
+**Completed: 19 / 181**
 
 ---
 
@@ -45,7 +45,7 @@
 - [x] **23. Insert at Beginning** — ✅ DONE
 - [x] **24. Insert at End** — ✅ DONE
 - [x] **25. Insert at Index** — ✅ DONE
-* [ ] F026 — Delete from Beginning
+- [x] **26. Delete from Beginning** — ✅ DONE
 * [ ] F027 — Delete from End
 * [ ] F028 — Delete from Index
 * [ ] F029 — Resize Dynamic Array
