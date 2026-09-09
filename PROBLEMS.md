@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 9 / 181**
+**Completed: 10 / 181**
 
 ---
 
@@ -33,7 +33,7 @@
 - [x] **14. Linear Search** — ✅ DONE
 - [x] **15. Reverse an Array** — ✅ DONE
 - [x] **16. Check if Array is Sorted** — ✅ DONE
-* [ ] F017 — Second Largest
+- [x] **17. Find Second Largest Element** — ✅ DONE
 * [ ] F018 — Second Smallest
 * [ ] F019 — Remove Duplicates
 * [ ] F020 — Rotate Array
