@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 4 / 181**
+**Completed: 8 / 181**
 
 ---
 
@@ -31,7 +31,7 @@
 - [x] **12. Find Average of Array Elements** — ✅ DONE
 - [x] **13. Count Occurrences** — ✅ DONE
 - [x] **14. Linear Search** — ✅ DONE
-* [ ] F015 — Reverse Array
+- [x] **15. Reverse an Array** — ✅ DONE
 * [ ] F016 — Check Sorted Array
 * [ ] F017 — Second Largest
 * [ ] F018 — Second Smallest
