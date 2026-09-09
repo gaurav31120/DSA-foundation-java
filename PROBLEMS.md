@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 16 / 181**
+**Completed: 17 / 181**
 
 ---
 
@@ -43,7 +43,7 @@
 # 03 — Array Operations
 
 - [x] **23. Insert at Beginning** — ✅ DONE
-* [ ] F024 — Insert at End
+- [x] **24. Insert at End** — ✅ DONE
 * [ ] F025 — Insert at Index
 * [ ] F026 — Delete from Beginning
 * [ ] F027 — Delete from End
