@@ -46,7 +46,7 @@
 - [x] **24. Insert at End** — ✅ DONE
 - [x] **25. Insert at Index** — ✅ DONE
 - [x] **26. Delete from Beginning** — ✅ DONE
-* [ ] F027 — Delete from End
+- [x] **27. Delete from End** — ✅ DONE
 * [ ] F028 — Delete from Index
 * [ ] F029 — Resize Dynamic Array
 * [ ] F030 — Shift Elements Left
