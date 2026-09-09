@@ -30,7 +30,7 @@
 - [x] **11. Find Sum of Array Elements** — ✅ DONE
 - [x] **12. Find Average of Array Elements** — ✅ DONE
 - [x] **13. Count Occurrences** — ✅ DONE
-* [ ] F014 — Linear Search
+- [x] **14. Linear Search** — ✅ DONE
 * [ ] F015 — Reverse Array
 * [ ] F016 — Check Sorted Array
 * [ ] F017 — Second Largest
