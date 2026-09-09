@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 19 / 181**
+**Completed: 21docs(dsa-03-array-operations): mark F028-delete-from-index -- notes-problem-tracker / 181**
 
 ---
 
@@ -47,7 +47,7 @@
 - [x] **25. Insert at Index** — ✅ DONE
 - [x] **26. Delete from Beginning** — ✅ DONE
 - [x] **27. Delete from End** — ✅ DONE
-* [ ] F028 — Delete from Index
+- [x] **28. Delete from Index** — ✅ DONE
 * [ ] F029 — Resize Dynamic Array
 * [ ] F030 — Shift Elements Left
 * [ ] F031 — Shift Elements Right
