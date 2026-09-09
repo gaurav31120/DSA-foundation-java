@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 8 / 181**
+**Completed: 9 / 181**
 
 ---
 
@@ -32,7 +32,7 @@
 - [x] **13. Count Occurrences** — ✅ DONE
 - [x] **14. Linear Search** — ✅ DONE
 - [x] **15. Reverse an Array** — ✅ DONE
-* [ ] F016 — Check Sorted Array
+- [x] **16. Check if Array is Sorted** — ✅ DONE
 * [ ] F017 — Second Largest
 * [ ] F018 — Second Smallest
 * [ ] F019 — Remove Duplicates
