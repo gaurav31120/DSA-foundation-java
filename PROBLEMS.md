@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 10 / 181**
+**Completed: 11 / 181**
 
 ---
 
@@ -34,7 +34,7 @@
 - [x] **15. Reverse an Array** — ✅ DONE
 - [x] **16. Check if Array is Sorted** — ✅ DONE
 - [x] **17. Find Second Largest Element** — ✅ DONE
-* [ ] F018 — Second Smallest
+- [x] **18. Find Second Smallest Element** — ✅ DONE
 * [ ] F019 — Remove Duplicates
 * [ ] F020 — Rotate Array
 * [ ] F021 — Move Zeros
