@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 11 / 181**
+**Completed: 12 / 181**
 
 ---
 
@@ -35,7 +35,7 @@
 - [x] **16. Check if Array is Sorted** — ✅ DONE
 - [x] **17. Find Second Largest Element** — ✅ DONE
 - [x] **18. Find Second Smallest Element** — ✅ DONE
-* [ ] F019 — Remove Duplicates
+- [x] **19. Count Even and Odd Elements** — ✅ DONE
 * [ ] F020 — Rotate Array
 * [ ] F021 — Move Zeros
 * [ ] F022 — Merge Two Arrays
