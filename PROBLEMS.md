@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 12 / 181**
+**Completed: 14 / 181**
 
 ---
 
@@ -37,7 +37,7 @@
 - [x] **18. Find Second Smallest Element** — ✅ DONE
 - [x] **19. Count Even and Odd Elements** — ✅ DONE
 - [x] **20. Rotate Array** — ✅ DONE
-* [ ] F021 — Move Zeros
+- [x] **21. Move Zeros** — ✅ DONE
 * [ ] F022 — Merge Two Arrays
 
 # 03 — Array Operations
