@@ -24,13 +24,12 @@
 
 # 02 — Arrays Fundamentals
 
-* [x] F008 — Traverse an Array — ✅ DONE
-* [x] F009 — Find Maximum Element — ✅ DONE
-- [x] F009 — Find Maximum Element — ✅ DONE
-- [x] F010 — Find Minimum Element — ✅ DONE
-- [x] F011 — Find Sum of Array Elements — ✅ DONE
-* [x] F012 — Find Average — ✅ DONE
-* [ ] F013 — Count Occurrences
+- [x] **08. Traverse an Array** — ✅ DONE
+- [x] **09. Find Maximum Element** — ✅ DONE
+- [x] **10. Find Minimum Element** — ✅ DONE
+- [x] **11. Find Sum of Array Elements** — ✅ DONE
+- [x] **12. Find Average of Array Elements** — ✅ DONE
+- [x] **13. Count Occurrences** — ✅ DONE
 * [ ] F014 — Linear Search
 * [ ] F015 — Reverse Array
 * [ ] F016 — Check Sorted Array
