@@ -38,7 +38,7 @@
 - [x] **19. Count Even and Odd Elements** — ✅ DONE
 - [x] **20. Rotate Array** — ✅ DONE
 - [x] **21. Move Zeros** — ✅ DONE
-* [ ] F022 — Merge Two Arrays
+- [x] **22. Merge Two Arrays** — ✅ DONE
 
 # 03 — Array Operations
 
