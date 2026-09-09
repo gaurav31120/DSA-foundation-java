@@ -48,7 +48,7 @@
 - [x] **26. Delete from Beginning** — ✅ DONE
 - [x] **27. Delete from End** — ✅ DONE
 - [x] **28. Delete from Index** — ✅ DONE
-* [ ] F029 — Resize Dynamic Array
+- [x] **29. Resize Dynamic Array** — ✅ DONE
 * [ ] F030 — Shift Elements Left
 * [ ] F031 — Shift Elements Right
 * [ ] F032 — Implement Dynamic Array
