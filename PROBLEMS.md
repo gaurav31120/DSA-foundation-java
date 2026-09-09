@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 17 / 181**
+**Completed: 18 / 181**
 
 ---
 
@@ -44,7 +44,7 @@
 
 - [x] **23. Insert at Beginning** — ✅ DONE
 - [x] **24. Insert at End** — ✅ DONE
-* [ ] F025 — Insert at Index
+- [x] **25. Insert at Index** — ✅ DONE
 * [ ] F026 — Delete from Beginning
 * [ ] F027 — Delete from End
 * [ ] F028 — Delete from Index
