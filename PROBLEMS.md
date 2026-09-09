@@ -36,7 +36,7 @@
 - [x] **17. Find Second Largest Element** — ✅ DONE
 - [x] **18. Find Second Smallest Element** — ✅ DONE
 - [x] **19. Count Even and Odd Elements** — ✅ DONE
-* [ ] F020 — Rotate Array
+- [x] **20. Rotate Array** — ✅ DONE
 * [ ] F021 — Move Zeros
 * [ ] F022 — Merge Two Arrays
 
