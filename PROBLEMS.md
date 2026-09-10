@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 26 / 181**
+**Completed: 27 / 181**
 
 ---
 
@@ -40,7 +40,7 @@
 - [x] **21. Move Zeros** — ✅ DONE
 - [x] **22. Merge Two Arrays** — ✅ DONE
 
-# 03 — Array Operations
+# 03 — Array Operations -- 11 / 11**
 
 - [x] **23. Insert at Beginning** — ✅ DONE
 - [x] **24. Insert at End** — ✅ DONE
@@ -56,7 +56,7 @@
 
 # 04 — Strings Fundamentals
 
-* [ ] F034 — Traverse String
+- [x] **46. Create Linked List** — ✅ DONE
 * [ ] F035 — Reverse String
 * [ ] F036 — Check Palindrome
 * [ ] F037 — Count Characters
