@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 27 / 181**
+**Completed: 28 / 181**
 
 ---
 
@@ -72,7 +72,7 @@
 # 05 — Linked List Fundamentals
 
 - [x] **46. Create Linked List** — ✅ DONE
-* [ ] F047 — Traverse Linked List
+- [x] **47. Traverse Linked List** — ✅ DONE
 * [ ] F048 — Insert at Beginning
 * [ ] F049 — Insert at End
 * [ ] F050 — Insert at Position
