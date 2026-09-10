@@ -73,7 +73,7 @@
 
 - [x] **46. Create Linked List** — ✅ DONE
 - [x] **47. Traverse Linked List** — ✅ DONE
-* [ ] F048 — Insert at Beginning
+- [x] **48. Insert at Beginning** — ✅ DONE
 * [ ] F049 — Insert at End
 * [ ] F050 — Insert at Position
 * [ ] F051 — Delete from Beginning
