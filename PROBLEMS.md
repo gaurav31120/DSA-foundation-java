@@ -56,7 +56,7 @@
 
 # 04 — Strings Fundamentals
 
-- [x] **46. Create Linked List** — ✅ DONE
+* [ ] F034 — Traverse String
 * [ ] F035 — Reverse String
 * [ ] F036 — Check Palindrome
 * [ ] F037 — Count Characters
@@ -71,7 +71,7 @@
 
 # 05 — Linked List Fundamentals
 
-* [ ] F046 — Create Linked List
+- [x] **46. Create Linked List** — ✅ DONE
 * [ ] F047 — Traverse Linked List
 * [ ] F048 — Insert at Beginning
 * [ ] F049 — Insert at End
