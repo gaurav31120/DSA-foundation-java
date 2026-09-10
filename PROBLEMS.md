@@ -75,7 +75,7 @@
 - [x] **47. Traverse Linked List** — ✅ DONE
 - [x] **48. Insert at Beginning** — ✅ DONE
 - [x] **49. Insert at End** — ✅ DONE
-* [ ] F050 — Insert at Position
+- [x] **50. Insert at Position** — ✅ DONE
 * [ ] F051 — Delete from Beginning
 * [ ] F052 — Delete from End
 * [ ] F053 — Delete by Value
