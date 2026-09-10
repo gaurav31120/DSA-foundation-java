@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 24 / 181**
+**Completed: 25 / 181**
 
 ---
 
@@ -51,7 +51,7 @@
 - [x] **29. Resize Dynamic Array** — ✅ DONE
 - [x] **30. Shift Elements Left** — ✅ DONE
 - [x] **31. Shift Elements Right** — ✅ DONE
-* [ ] F032 — Implement Dynamic Array
+- [x] **32. Implement Dynamic Array** — ✅ DONE
 * [ ] F033 — Array-Based List
 
 # 04 — Strings Fundamentals
