@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 28 / 181**
+**Completed: 30 / 181**
 
 ---
 
@@ -74,7 +74,7 @@
 - [x] **46. Create Linked List** — ✅ DONE
 - [x] **47. Traverse Linked List** — ✅ DONE
 - [x] **48. Insert at Beginning** — ✅ DONE
-* [ ] F049 — Insert at End
+- [x] **49. Insert at End** — ✅ DONE
 * [ ] F050 — Insert at Position
 * [ ] F051 — Delete from Beginning
 * [ ] F052 — Delete from End
