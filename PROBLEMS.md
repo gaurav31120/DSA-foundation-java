@@ -49,7 +49,7 @@
 - [x] **27. Delete from End** — ✅ DONE
 - [x] **28. Delete from Index** — ✅ DONE
 - [x] **29. Resize Dynamic Array** — ✅ DONE
-* [ ] F030 — Shift Elements Left
+- [x] **30. Shift Elements Left** — ✅ DONE
 * [ ] F031 — Shift Elements Right
 * [ ] F032 — Implement Dynamic Array
 * [ ] F033 — Array-Based List
