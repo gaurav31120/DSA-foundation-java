@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 21docs(dsa-03-array-operations): mark F028-delete-from-index -- notes-problem-tracker / 181**
+**Completed: 24 / 181**
 
 ---
 
@@ -50,7 +50,7 @@
 - [x] **28. Delete from Index** — ✅ DONE
 - [x] **29. Resize Dynamic Array** — ✅ DONE
 - [x] **30. Shift Elements Left** — ✅ DONE
-* [ ] F031 — Shift Elements Right
+- [x] **31. Shift Elements Right** — ✅ DONE
 * [ ] F032 — Implement Dynamic Array
 * [ ] F033 — Array-Based List
 
