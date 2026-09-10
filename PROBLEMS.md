@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 32 / 181**
+**Completed: 33 / 181**
 
 ---
 
@@ -77,7 +77,7 @@
 - [x] **49. Insert at End** — ✅ DONE
 - [x] **50. Insert at Position** — ✅ DONE
 - [x] **51. Delete from Beginning** — ✅ DONE
-* [ ] F052 — Delete from End
+- [x] **52. Delete from End** — ✅ DONE
 * [ ] F053 — Delete by Value
 * [ ] F054 — Search Linked List
 * [ ] F055 — Find Length
