@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 39 / 181**
+**Completed: 40 / 181**
 
 ---
 
@@ -84,7 +84,7 @@
 - [x] **56. Reverse Linked List** — ✅ DONE
 - [x] **57. Find Middle** — ✅ DONE
 - [x] **58. Detect Cycle** — ✅ DONE
-* [ ] F059 — Remove Duplicates
+- [x] **59. Remove Duplicates** — ✅ DONE
 * [ ] F060 — Convert Array to Linked List
 
 # 06 — Linked List Foundation II
