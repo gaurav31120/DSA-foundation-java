@@ -81,7 +81,7 @@
 - [x] **53. Delete by Value** — ✅ DONE
 - [x] **54. Search Linked List** — ✅ DONE
 - [x] **55. Find Length** — ✅ DONE
-* [ ] F056 — Reverse Linked List
+- [x] **56. Reverse Linked List** — ✅ DONE
 * [ ] F057 — Find Middle
 * [ ] F058 — Detect Cycle
 * [ ] F059 — Remove Duplicates
