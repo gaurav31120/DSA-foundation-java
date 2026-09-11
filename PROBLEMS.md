@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 35 / 181**
+**Completed: 38 / 181**
 
 ---
 
@@ -82,7 +82,7 @@
 - [x] **54. Search Linked List** — ✅ DONE
 - [x] **55. Find Length** — ✅ DONE
 - [x] **56. Reverse Linked List** — ✅ DONE
-* [ ] F057 — Find Middle
+- [x] **57. Find Middle** — ✅ DONE
 * [ ] F058 — Detect Cycle
 * [ ] F059 — Remove Duplicates
 * [ ] F060 — Convert Array to Linked List
