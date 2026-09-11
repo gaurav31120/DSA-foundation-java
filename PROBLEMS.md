@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 40 / 181**
+**Completed: 42 / 181**
 
 ---
 
@@ -87,9 +87,9 @@
 - [x] **59. Remove Duplicates** — ✅ DONE
 - [x] **60. Convert Array to Linked List** — ✅ DONE
 
-# 06 — Linked List Foundation II
+# 06 — Linked List Fundamentals II
 
-* [ ] F061 — Merge Two Sorted Lists
+- [x] **61. Merge Two Sorted Lists** — ✅ DONE
 * [ ] F062 — Remove Nth Node
 * [ ] F063 — Find Intersection
 * [ ] F064 — Palindrome Linked List
