@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 34 / 181**
+**Completed: 35 / 181**
 
 ---
 
@@ -79,7 +79,7 @@
 - [x] **51. Delete from Beginning** — ✅ DONE
 - [x] **52. Delete from End** — ✅ DONE
 - [x] **53. Delete by Value** — ✅ DONE
-* [ ] F054 — Search Linked List
+- [x] **54. Search Linked List** — ✅ DONE
 * [ ] F055 — Find Length
 * [ ] F056 — Reverse Linked List
 * [ ] F057 — Find Middle
