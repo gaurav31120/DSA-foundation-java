@@ -80,7 +80,7 @@
 - [x] **52. Delete from End** — ✅ DONE
 - [x] **53. Delete by Value** — ✅ DONE
 - [x] **54. Search Linked List** — ✅ DONE
-* [ ] F055 — Find Length
+- [x] **55. Find Length** — ✅ DONE
 * [ ] F056 — Reverse Linked List
 * [ ] F057 — Find Middle
 * [ ] F058 — Detect Cycle
