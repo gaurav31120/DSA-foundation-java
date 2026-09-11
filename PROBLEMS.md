@@ -85,7 +85,7 @@
 - [x] **57. Find Middle** — ✅ DONE
 - [x] **58. Detect Cycle** — ✅ DONE
 - [x] **59. Remove Duplicates** — ✅ DONE
-* [ ] F060 — Convert Array to Linked List
+- [x] **60. Convert Array to Linked List** — ✅ DONE
 
 # 06 — Linked List Foundation II
 
