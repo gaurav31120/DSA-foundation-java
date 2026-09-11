@@ -3,25 +3,22 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 */
 
-public class ReverseLinkedList {
+public class FindMiddle {
 
-    // Reverses the existing links and returns the new head.
-    static Node reverse(Node head) {
+    // Finds and returns the middle node using two pointers.
+    static Node findMiddle(Node head) {
 
-        Node prev = null;
-        Node curr = head;
+        Node slow = head;
+        Node fast = head;
 
-        while (curr != null) {
-            Node next = curr.next; // Save next node
-            curr.next = prev;      // Reverse the link
-            prev = curr;
-            curr = next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return prev;
+        return slow;
     }
 
-    // Prints the linked list using arrow notation.
     static void printList(Node head) {
 
         Node curr = head;
@@ -47,26 +44,27 @@ public class ReverseLinkedList {
         head.next.next.next = new Node(20);
         head.next.next.next.next = new Node(40);
 
-        head = reverse(head);
-
         printList(head);
+
+        Node middle = findMiddle(head);
+
+        System.out.println("Middle Node: " + middle.data);
+    }
+
+    static class Node {
+
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+        }
     }
 }
-
-class Node {
-
-    int data;
-    Node next;
-
-    Node(int data) {
-        this.data = data;
-        this.next = null;
-    }
-}
-
-
 
 /*
 Output:
-40 -> 20 -> 30 -> 20 -> 10
+10 -> 20 -> 30 -> 20 -> 40
+Middle Node: 30
 */
