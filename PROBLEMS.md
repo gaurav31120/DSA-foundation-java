@@ -8,7 +8,7 @@
 
 ## Progress
 
-**Completed: 42 / 181**
+**Completed: 43 / 181**
 
 ---
 
@@ -90,7 +90,7 @@
 # 06 — Linked List Fundamentals II
 
 - [x] **61. Merge Two Sorted Lists** — ✅ DONE
-* [ ] F062 — Remove Nth Node
+- [x] **62. Remove Nth Node** — ✅ DONE
 * [ ] F063 — Find Intersection
 * [ ] F064 — Palindrome Linked List
 * [ ] F065 — Detect Cycle Entry
